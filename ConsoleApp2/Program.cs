@@ -12,7 +12,7 @@ namespace ConsoleApp2
 
         public static void F()
         {
-            
+            Console.WriteLine("Hello World!");
         }
 
         public static void F1()
