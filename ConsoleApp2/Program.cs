@@ -20,5 +20,10 @@ namespace ConsoleApp2
         {
 
         }
+
+        public static void F2()
+        {
+
+        }
     }
 }
