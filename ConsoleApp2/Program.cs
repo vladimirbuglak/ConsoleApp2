@@ -24,6 +24,7 @@ namespace ConsoleApp2
         public static void F2()
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World!");
         }
     }
 }
