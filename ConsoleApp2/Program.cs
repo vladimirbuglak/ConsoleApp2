@@ -18,7 +18,7 @@ namespace ConsoleApp2
 
         public static void F1()
         {
-            Console.WriteLine("Hello World!");
+
         }
 
         public static void F2()
@@ -26,6 +26,7 @@ namespace ConsoleApp2
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World!1");
             Console.WriteLine("Hello World!");
         }
     }
