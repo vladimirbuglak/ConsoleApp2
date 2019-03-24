@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace ConsoleApp2
 {
@@ -7,6 +7,17 @@ namespace ConsoleApp2
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World!");
+        }
+
+        public static void F()
+        {
+            
+        }
+
+        public static void F1()
+        {
+
         }
     }
 }
